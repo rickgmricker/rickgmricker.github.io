@@ -1,1 +1,2 @@
-# Hello World 🎮
+# GMRicker
+Hello GitHub Pages
