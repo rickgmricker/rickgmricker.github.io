@@ -1,2 +1,1 @@
-# GMRicker
-Hello GitHub Pages
+Hello, I'm Rick.
