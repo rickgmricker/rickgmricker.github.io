@@ -1,0 +1,6 @@
+navbar_entries:
+  - title: Home
+    url: index
+
+  - title: Privacy
+    url: privacy
