@@ -4,3 +4,12 @@ navbar_entries:
 
   - title: Privacy
     url: privacy
+
+project_entries:
+  - title: My Games
+    url: https://play.google.com/store/apps/dev?id=6771558508299698942
+    desc: 
+
+  - title: My Mods
+    url: https://www.curseforge.com/members/gmricker/projects
+    desc: Minecraft Java Mods
