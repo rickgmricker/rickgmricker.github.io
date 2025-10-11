@@ -6,3 +6,4 @@ theme_config:
   appearance: "dark"
   appearance_toggle: true 
   show_navbar: true
+  show_projects: true
