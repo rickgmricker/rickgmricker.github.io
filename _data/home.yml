@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
   - title: My Games
     url: https://play.google.com/store/apps/dev?id=6771558508299698942
-    desc: 
+    desc: Google Play
 
   - title: My Mods
     url: https://www.curseforge.com/members/gmricker/projects
