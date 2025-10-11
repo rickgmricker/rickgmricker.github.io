@@ -7,3 +7,4 @@ theme_config:
   appearance_toggle: true 
   show_navbar: true
   show_projects: true
+  back_home_text: "home"
